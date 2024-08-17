@@ -4,8 +4,6 @@ const a = null; -> a 안에 값이 없음
 console.log(b); //undefined ->아예 b가 없음
 ㄴ값 출력ㄱㄴ
 
-*참조 타임(String)
-어딘가에 값이 있는데 그 어딘가의 주소를 전달
 
 js에서 변수 선언방법
 1.var    이 키워드 하나만으로 변수 선언 ㄱㄴ(문자, boolean, null 모두 ㄱㄴ)/변수의 타입을 추론하게 해줌
