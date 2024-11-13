@@ -1,0 +1,112 @@
+.body {
+    position : absolute;
+    width : 1920px;
+    height : 9269px;
+}
+.f1 {
+    font-style : 'Jua';
+    font-size: 64px;
+}
+.f2 {
+    font-style : 'Jua';
+    font-size: 48px;
+}
+.f7 {
+    font-style : 'Jua';
+    font-size: 28px;
+}
+.f3 {
+    font-style : 'IBM Plex Sans';
+    font-size: 64px;
+}
+.f4 {
+    font-style : 'IBM Plex Sans';
+    font-size: 48px;
+}
+.f5 {
+    font-style: 'interop';
+    font-size: 36px;
+}
+.f6 {
+    font-style: 'interop';
+    font-size: 28px;
+}
+.f8 {
+    font-style: 'interop';
+    font-size: 22px;;
+}
+.mc {
+    background-color: #FFE500;
+}
+.sc {
+    background-color: #F8F6F6;
+}
+.rd {
+    border-radius: 10px;
+}
+.GNB {
+    position : relative;
+    left : 0px;
+    top : 0px;
+    margin : 0px;
+    border : 1px solid black;
+    width:1920px;
+    height:65px;
+
+}
+.center {
+    margin : 0px;
+    position : relative;
+    border : 1px solid black;
+    width: 1920px;
+    height: 8750px;
+    left : 0px;
+    top : 65px;
+    background-color: lightblue;
+}
+.kakao {
+    margin : 0px;
+    /* border : 1px solid black; */
+    width : 718px;
+    height : 70px;
+    position : absolute;
+    left : 156px;
+    top : 8197px;
+}
+.call {
+    margin : 0px;
+    /* border : 1px solid black; */
+    width : 718px;
+    height : 70px;
+    background-color: #6EB0FB;
+    position : relative;
+    left : 156px;
+    top : 8282px;
+}
+.onfoot {
+    margin : 0px;
+    border : 1px solid black;
+    width:1920px;
+    height:262px;
+    position : absolute;
+    left : 0px;
+    top : 8816px;
+}
+.FooterContent {
+    /* border : 1px solid black; */
+    margin : 0px;
+    width:456px;
+    height: 60px;
+    position : absolute;
+    left : 732px;
+    top : 8958px;
+}
+.footer {
+    margin : 0px;
+    position : absolute;
+    border : 1px solid black;
+    width:1920px;
+    height:192px;
+    left : 0px;
+    top : 9078px;
+}
