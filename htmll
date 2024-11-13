@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name ="viewport" content="width=device-width"; initial-scale="1.0">
+    
+    
+    <link rel="stylesheet" type ="text/css" href="b.css">
+    <title></title>
+
+</head>
+<body>
+    <script src="c.js"></script>
+    <div class="GNB">
+        <p class = "f7" style="position:absolute; left : 175px; top : 25px; width:240px; height:16px; margin : 0;"><b>머물다키즈풀빌라</b></p>
+        <p class = "f6" onclick='intro()' style="position:absolute; left : 694px; top : 25px; width:150px; height:16px; margin : 0;">머물다 소개</p>
+        <p class = "f6" onclick='facility()' style="position:absolute; left : 904px; top : 25px; width:150px; height:16px; margin : 0;">시설 안내</p>
+        <p class = "f6" onclick='guide()' style="position:absolute; left : 1089px; top : 25px; width:150px; height:16px; margin : 0;">예약 안내</p>
+        <p class = "f6" onclick='reservation()' style="position:absolute; left : 1646px; top : 25px; width:150px; height:16px;; margin : 0;">예약하기</p>
+    </div>
+    <div class="center">
+        <div class="kakao rd mc" onclick='Kakao()'>
+        <p class =" f6" style="position:relative; left : 170px; top : 500px; width:350px; height:16px; margin : 0;">
+        카카오톡으로 물어볼래요</p>
+        </div>
+        <div class="call rd" onclick='call()'>
+        <p class =" f6" style="position:absolute; left : 170px; top : 500px; width:350px; height:16px; margin : 0;">
+        전화로 물어볼래요</p>
+        </div>
+    </div>
+    <div class="onfoot">
+        <div class="FooterContent rd mc" onclick="footerContent()">
+            <p style="position:absolute; left : 757px; top : 8984px; width:406px; height:9px; margin : 0;">예약 안내 페이지로 이동하기</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p class="f8" style="position:absolute; left:737px; top : 9123px">
+            오시는 길
+        </p>
+        <p class="f8" style="position:absolute; left:871px; top : 9123px">
+            문의
+        </p>
+        <p class="f8" style="position:absolute; left:956px; top : 9123px">
+            개인정보처리방침
+        </p>
+        <p class="f8" style="position:absolute; left:1165px; top : 9123px">
+            이용약관
+        </p>
+        <p class="f8" style="position:absolute; left:1293px; top : 9123px">
+            계좌번호
+        </p>
+    </div>
+</body>
+</html>
